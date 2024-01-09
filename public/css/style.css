@@ -104,6 +104,7 @@ body {
 }
 
 .component__header {
+    height: 43px;
     color: var(--clr-white-800);
     font-weight: 700;
     font-size: var(--component-header-font-size, 28px);
