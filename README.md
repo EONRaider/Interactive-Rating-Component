@@ -23,8 +23,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- [Check the Live Site](https://rating-component.netlify.app/)
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component)
+- [Check the Live Site](https://eonraider-rating-component.netlify.app/)
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-html5css3js-interactive-rating-component-dCQPwVXk1T)
 
 ### Screenshot
 
